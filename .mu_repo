@@ -1,0 +1,9 @@
+repo=.
+repo=client/client
+repo=client/jpush
+repo=client/socketio
+repo=client/view/knockout
+repo=client/view/reactnative
+repo=server/jpush
+repo=server/server
+serial=True
