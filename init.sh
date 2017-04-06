@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-username=colinhan
+username=colin-han
 if [[ "$1" == "-u" ]]; then
     if [[ "$2" == "" ]]; then
         echo 'USAGE: init [-u <github-user-name>]'
